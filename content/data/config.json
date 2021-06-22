@@ -58,11 +58,7 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
+        
             },
             {
                 "label": "LinkedIn",
