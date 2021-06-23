@@ -33,7 +33,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "contatame",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -57,7 +57,6 @@
                 "icon": "instagram",
                 "new_window": true
             },
-            
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/daniel-felipe-diaz-rodriguez/",
