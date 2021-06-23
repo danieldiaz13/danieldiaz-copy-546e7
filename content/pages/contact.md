@@ -14,6 +14,8 @@ sections:
         label: ¿Quién soy?
         is_required: true
         default_value: 'Soy colombiano '
+        options:
+          - lorem-ipsum
       - input_type: email
         name: email
         label: Email
