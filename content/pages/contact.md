@@ -10,7 +10,6 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: ¿Quién soy?
         is_required: true
         default_value: 'Soy colombiano '
         options:
