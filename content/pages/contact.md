@@ -2,8 +2,7 @@
 title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections:
-  - section_id: hol
-    type: section_form
+  - type: section_form
     content: |
       # hhhh
     form_id: contactForm
