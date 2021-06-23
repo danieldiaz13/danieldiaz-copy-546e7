@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections:
   - section_id: contact-form
