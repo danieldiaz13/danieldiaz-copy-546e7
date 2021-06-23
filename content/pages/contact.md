@@ -14,6 +14,7 @@ sections:
         name: name
         label: ¿Quién soy?
         is_required: true
+        default_value: 'Soy colombiano '
       - input_type: email
         name: email
         label: Email
