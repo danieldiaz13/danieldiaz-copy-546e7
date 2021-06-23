@@ -12,7 +12,7 @@ sections:
         name: name
         is_required: true
         default_value: >-
-          Soy colombiano actual mente me encuentro estudiante de la carrera de
+          colombiano actual mente me encuentro estudiante de la carrera de
           electrónica en la universidad del valle me llama la atención la
           programación y decidí ampliar mi combinándolo con la programación
           adquiriendo conocimientos en Plat
