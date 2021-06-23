@@ -8,7 +8,7 @@ sections:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
-      - input_type: text
+      - input_type: select
         name: name
         is_required: true
         default_value: 'Soy colombiano '
