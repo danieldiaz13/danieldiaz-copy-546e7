@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola soy Daniel Diaz y soy programador
-    content: |+
-      oy essoy da
-
+    content: >
+      Soy estudiante de electrónica con enfoques en la programación, logrando
+      combinar estos dos maravillosos mundos  de la tecnología
     actions:
       - label: Let's talk
         url: /contact
