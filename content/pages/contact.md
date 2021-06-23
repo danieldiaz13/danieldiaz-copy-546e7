@@ -13,7 +13,7 @@ sections:
       - input_type: text
         name: name
         label: ¿Quién soy?
-        is_required: true
+        is_required: false
         default_value: 'Soy colombiano '
       - input_type: email
         name: email
