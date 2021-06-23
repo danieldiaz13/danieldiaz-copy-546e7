@@ -45,11 +45,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-    section_id: >-
-      Soy colombiano actual mente me encuentro estudiante de la carrera de
-      electrónica en la universidad del valle me llama la atención la
-      programación y decidí ampliar mi combinándolo con la programación
-      adquiriendo conocimientos en Platzi
 seo:
   title: Contact
   description: This is the contact page
