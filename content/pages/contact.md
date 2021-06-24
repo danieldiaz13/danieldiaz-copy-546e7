@@ -24,7 +24,7 @@ sections:
           - null
         is_required: false
         type: form_field
-        default_value: #Circuitos electrónicos, JavaScript, Python, 
+        default_value: Circuitos electrónicos, JavaScript, Python, 
       - input_type: email
         name: email
         label: Email
