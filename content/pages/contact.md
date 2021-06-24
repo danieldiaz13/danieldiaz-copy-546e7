@@ -25,8 +25,8 @@ sections:
         #is_required: false
         #type: form_field
         #default_value: #Circuitos electrónicos, JavaScript, Python, 
-      - input_type: email
-        name: email
+      - #input_type: email
+        #name: email
         label: Email
         default_value: Your email address
         is_required: true
