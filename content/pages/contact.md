@@ -9,7 +9,7 @@ sections:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
-      - input_type: email
+      - input_type: text
         name: lorem-ipsum
         label: Especialidades
         default_value: lorem-ipsum
