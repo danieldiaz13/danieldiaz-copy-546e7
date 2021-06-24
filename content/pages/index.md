@@ -2,8 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: services
-    type: section_grid
+  - type: section_grid
     title: What We Do
     subtitle: An optional subtitle of the section
     col_number: two
