@@ -12,7 +12,8 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: yyyyy
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
         default_value: cccc
