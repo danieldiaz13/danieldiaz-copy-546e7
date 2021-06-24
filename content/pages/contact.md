@@ -13,7 +13,7 @@ sections:
         name: lorem-ipsum
         label: yyyyy
         options:
-          - lorem-ipsum
+          - lorem-ipjj
         is_required: false
         type: form_field
         default_value: cccc
