@@ -40,7 +40,7 @@ sections:
           danieldiaz5174@gmail.com
         actions:
           - label: danieldiaz5274@gmail.com
-            url: '#danieldiaz5274@gmail.com'
+            url: danieldiaz5274@gmail.com
             style: link
             icon: dribbble
             new_window: false
