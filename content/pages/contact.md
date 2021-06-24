@@ -25,9 +25,6 @@ sections:
         is_required: false
         type: form_field
         default_value: Circuitos electrónicos, JavaScript, Python, 
-      - input_type: textarea
-        name: message
-        label: Message
         default_value: Your message
       - input_type: checkbox
         name: consent
