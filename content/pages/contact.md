@@ -41,7 +41,7 @@ sections:
 seo:
   title: Contact
   description: This is the contact page
-  extra:
+  extra:danieldiaz5174@gmail.com
     - name: 'og:type'
       value: website
       keyName: property
