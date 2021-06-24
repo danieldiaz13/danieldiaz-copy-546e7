@@ -12,7 +12,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Enfocado
-        default_value: Especialidadesf
+        default_value: JavaScript, Svelte, React, Node, GitHub.
         options: []
         is_required: false
         type: form_field
