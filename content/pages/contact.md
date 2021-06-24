@@ -14,32 +14,32 @@ sections:
        Llevo 2 años en la universidad del valle en la carrera de electrónica, enfocado en Platiz asiendo cursos y retos los cuales puedes observar en mi perfil de LinkedIn www.linkedin.com/in/daniel-felipe-diaz-rodriguez 
 
 
-    #form_id: contactForm
-    #form_action: /thank-you
-    #form_fields:
-     # - input_type: text
-      #  name: lorem-ipsum
-       #label: #Enfocado
-        #options:
-         # - null
-        #is_required: false
-        #type: form_field
-        #default_value: #Circuitos electrónicos, JavaScript, Python, 
-      - #input_type: email
-        #name: email
-        #label: Email
-        #default_value: Your email address
-        #is_required: true
-      - #input_type: select
-        #name: subject
-        #label: Subject
-        #default_value: Please select
-        #options:
-         #- Sponsorship
+    form_id: contactForm
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+       label: #Enfocado
+        options:
+          - null
+        is_required: false
+        type: form_field
+        default_value: #Circuitos electrónicos, JavaScript, Python, 
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+      - input_type: select
+        name: subject
+        label: Subject
+        default_value: Please select
+        options:
+         - Sponsorship
           
-          #- Other
-      - #input_type: textarea
-        #name: message
+          - Other
+      - input_type: textarea
+        name: message
         label: Message
         default_value: Your message
       - input_type: checkbox
