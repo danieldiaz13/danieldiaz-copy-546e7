@@ -45,7 +45,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
+          #I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
 seo:
