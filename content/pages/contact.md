@@ -22,14 +22,7 @@ sections:
        label: Enfocado
         options:
           - null
-        is_required: false
-        type: form_field
-        default_value: Circuitos electrónicos, JavaScript, Python,
-      - input_type: checkbox
-        name: consent
-        label: >- 
-        I understand that this form is storing my submitted information so I
-          can be contacted.
+        
     submit_label:
 seo: 
   title: Contact
