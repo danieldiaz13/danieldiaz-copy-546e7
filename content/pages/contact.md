@@ -8,7 +8,7 @@ sections:
        hhhh
     form_id: contactForm
     form_action: /thank-you
-    form_fields:
+    form_fields: ggg
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
