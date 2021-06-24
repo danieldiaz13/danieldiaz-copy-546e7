@@ -11,7 +11,6 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        co
         label: yyyyy
         default_value: lorem-ipsum
         options: []
