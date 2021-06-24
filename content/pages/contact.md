@@ -27,7 +27,7 @@ sections:
         #default_value: #Circuitos electrónicos, JavaScript, Python, 
       - #input_type: email
         #name: email
-        label: Email
+        #label: Email
         default_value: Your email address
         is_required: true
       - input_type: select
