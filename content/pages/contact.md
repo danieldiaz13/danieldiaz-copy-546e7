@@ -28,10 +28,6 @@ sections:
       - input_type: email
         name: email
         label: Email
-        options:
-         - Sponsorship
-          
-          - Other
       - input_type: textarea
         name: message
         label: Message
