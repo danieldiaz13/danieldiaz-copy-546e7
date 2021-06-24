@@ -1,5 +1,5 @@
 ---
-itle: Daniel Felipe Diaz Rodriguez
+title: Daniel Felipe Diaz Rodriguez
 hide_title: false
 sections:
   - type: section_form
