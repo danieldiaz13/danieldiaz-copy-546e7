@@ -10,6 +10,10 @@ sections:
        # Enfocado en
        Circuitos electrónicos, JavaScript, Python,
 
+       Trayectoria
+Llevo 2 años en la universidad del valle en la carrera de electrónica, enfocado en Platiz asiendo cursos y retos los cuales puedes observar en mi perfil de LinkedIn 
+
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
