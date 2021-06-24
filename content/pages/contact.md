@@ -15,16 +15,16 @@ sections:
 
 
     #form_id: contactForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: text
-        name: lorem-ipsum
-        label: #Enfocado
-        options:
-          - null
-        is_required: false
-        type: form_field
-        default_value: #Circuitos electrónicos, JavaScript, Python, 
+    #form_action: /thank-you
+    #form_fields:
+     # - input_type: text
+      #  name: lorem-ipsum
+       #label: #Enfocado
+        #options:
+         # - null
+        #is_required: false
+        #type: form_field
+        #default_value: #Circuitos electrónicos, JavaScript, Python, 
       - input_type: email
         name: email
         label: Email
