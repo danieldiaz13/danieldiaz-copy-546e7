@@ -11,8 +11,7 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        content: 
-        Enfocado
+        content: Enfocado
                Circuitos electrónicos, JavaScript, Python, 
         options: []
         is_required: false
