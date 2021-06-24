@@ -43,7 +43,7 @@ sections:
             url: danieldiaz5274@gmail.com
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: true
             type: action
           - label: lorem-ipsum
