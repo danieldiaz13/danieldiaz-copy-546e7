@@ -16,7 +16,7 @@ sections:
           - null
         is_required: false
         type: form_field
-        default_value: cccc
+        default_value: 
       - input_type: email
         name: email
         label: Email
