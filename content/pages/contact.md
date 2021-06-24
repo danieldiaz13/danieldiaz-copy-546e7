@@ -5,7 +5,7 @@ sections:
   - type: section_form
     content: |
       # ¿Quién soy?
-       hhhh
+       Soy colombiano actualmente me encuentro estudiando la carrera de electrónica en la universidad del valle estando en la universidad conocí en mundo de la programación y decidí como ser más afondo este mundo así que comencé a estudiar programación en Platiz  
     form_id: contactForm
     form_action: /thank-you
     form_fields:
