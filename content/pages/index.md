@@ -44,7 +44,7 @@ sections:
             style: button
             icon: dribbble
             new_window: false
-            no_follow: false
+            no_follow: true
             type: action
           - label: lorem-ipsum
             url: '#'
