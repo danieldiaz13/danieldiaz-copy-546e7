@@ -5,7 +5,7 @@ sections:
   - type: section_form
     content: |
       # ¿Quién soy?
-      "hhhh
+      hhhh
     form_id: contactForm
     form_action: /thank-you
     form_fields:
