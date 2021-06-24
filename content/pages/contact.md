@@ -11,13 +11,6 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: Enfocado
-        default_value: Circuitos electrónicos, JavaScript, Python, 
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
         label: yyyyy
         default_value: lorem-ipsum
         options: []
