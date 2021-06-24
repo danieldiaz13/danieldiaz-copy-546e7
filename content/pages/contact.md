@@ -28,8 +28,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
-        is_required: true
+        defaul
         default_value: #Please select
         options:
          - Sponsorship
