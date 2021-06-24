@@ -11,7 +11,7 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: Enfocado 
+        label: Enfocado
         default_value: Especialidadesf
         options: []
         is_required: false
