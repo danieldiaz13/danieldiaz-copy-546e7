@@ -6,7 +6,7 @@ sections:
     title: What We Do
     subtitle: An optional subtitle of the section
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Service Title
         content: >-
