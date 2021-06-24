@@ -39,7 +39,7 @@ sections:
           - Sponsorship
           - Other
       - input_type: textarea
-        name: message
+        #name: message
         label: Message
         default_value: Your message
       - input_type: checkbox
