@@ -37,7 +37,8 @@ sections:
         label: >- 
         I understand that this form is storing my submitted information so I
           can be contacted.
-    submit_label: Send Messa danieldiaz5174@gmail.com
+    submit_label: hhh
+    danieldiaz5174@gmail.com
 seo: 
   title: Contact
   description: This is the contact page
