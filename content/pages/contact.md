@@ -44,8 +44,7 @@ sections:
         default_value: Your message
       - input_type: checkbox
         name: consent
-        label: >-
-          #I understand that this form is storing my submitted information so I
+        label: >- #I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
 seo:
