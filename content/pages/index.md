@@ -1,6 +1,6 @@
 ---
 title: Home
-hide_title: false
+hide_title: true
 sections:
   - type: section_grid
     title: What We Do
