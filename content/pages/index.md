@@ -37,7 +37,7 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
       - content: |
-          danieldiaz5174@gmail.com
+          # danieldiaz5174@gmail.com
         actions:
           - label: danieldiaz5274@gmail.com
             url: danieldiaz5274@gmail.com
