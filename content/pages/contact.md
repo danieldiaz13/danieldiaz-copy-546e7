@@ -19,7 +19,7 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-       label: #Enfocado
+       label: Enfocado
         options:
           - null
         is_required: false
