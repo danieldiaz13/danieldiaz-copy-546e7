@@ -5,7 +5,7 @@
     "accent_color": "pink",
     "header": {
         "title": "danieldiaz",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
