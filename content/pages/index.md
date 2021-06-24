@@ -54,6 +54,7 @@ sections:
             no_follow: false
             type: action
         image_alt: danieldiaz5174@gmail.com
+        title: danieldiaz5174@gmail.com
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
