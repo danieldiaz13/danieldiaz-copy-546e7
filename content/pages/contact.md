@@ -13,6 +13,7 @@ sections:
         name: lorem-ipsum
         label: yyyyy
         default_value: lorem-ipsumk
+        options: []
         is_required: false
         type: form_field
       - input_type: email
