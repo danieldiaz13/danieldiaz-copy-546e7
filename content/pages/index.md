@@ -2,16 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
-    title: Hola soy Daniel Diaz y soy programador
-    content: >
-      Soy estudiante de electrónica con enfoques en la programación, logrando
-      combinar estos dos maravillosos mundos  de la tecnología
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
