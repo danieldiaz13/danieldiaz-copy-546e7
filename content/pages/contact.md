@@ -12,7 +12,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Enfocado
-        default_value: JavaScript, Svelte, React, Node, GitHub.
+        default_value: JavaScript, 
         options: []
         is_required: false
         type: form_field
