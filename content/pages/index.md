@@ -18,25 +18,6 @@ sections:
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
-      - content: |
-          # danieldiaz5174@gmail.com
-        actions:
-          - label: danieldiaz5274@gmail.com
-            url: danieldiaz5274@gmail.com
-            style: button
-            icon: dribbble
-            new_window: true
-            no_follow: true
-            type: action
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: danieldiaz5174@gmail.com
-        title: danieldiaz5174@gmail.com
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
