@@ -12,7 +12,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: yyyyy
-        options: 
+        options: content:
           - null
         is_required: false
         type: form_field
