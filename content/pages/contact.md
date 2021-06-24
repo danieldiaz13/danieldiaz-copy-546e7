@@ -28,7 +28,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        defaul
+        
         default_value: #Please select
         options:
          - Sponsorship
