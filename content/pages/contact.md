@@ -12,7 +12,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Especialidades
-        default_value: lorem-ipsum
+        default_value: Especialidades
         options: []
         is_required: false
         type: form_field
