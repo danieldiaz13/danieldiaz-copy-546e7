@@ -41,7 +41,7 @@ sections:
           danieldiaz5274@gmail.com
 
         actions:
-          - label: lorem-ipsum
+          - label: danieldiaz5274@gmail.com
             url: '#'
             style: link
             icon: dribbble
