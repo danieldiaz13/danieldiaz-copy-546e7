@@ -36,9 +36,8 @@ sections:
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
-      - content: |+
-          danieldiaz5274@gmail.com
-
+      - content: |
+          danieldiaz5174@gmail.com
         actions:
           - label: danieldiaz5274@gmail.com
             url: '#danieldiaz5274@gmail.com'
