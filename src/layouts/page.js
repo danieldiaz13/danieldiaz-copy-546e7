@@ -26,7 +26,7 @@ export default class Page extends React.Component {
                         {image && (
                             <div className="post-image">
                                 <img src={withPrefix(image)} alt={imageAlt} />
-                            
+                            </div>
                         )}
                         </header>
                         {image && (
