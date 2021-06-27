@@ -66,5 +66,6 @@
             }
         ]
     },
-    "domain": "https://danieldiaz.com"
+    "domain": "https://danieldiaz.com",
+    "favicon": "/images/Captura de pantalla 2021-06-22 232956.png"
 }
