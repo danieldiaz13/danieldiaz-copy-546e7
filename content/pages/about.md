@@ -1,7 +1,7 @@
 ---
 title: eeeeeeb
 subtitle: This is a short page about us and our work.
-image: /images/10_thumb.jpg
+image: /images/1.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
