@@ -27,6 +27,7 @@ export default class Page extends React.Component {
                             <div className="post-image">
                                 <img src={withPrefix(image)} alt={imageAlt} />
                             </div>
+                            
                         )}
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                     </article>
