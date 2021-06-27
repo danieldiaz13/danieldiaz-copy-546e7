@@ -28,8 +28,7 @@ export default class Page extends React.Component {
                                 <img src={withPrefix(image)} alt={imageAlt} />
                             </div>
                         )}
-                        {image && (
-                            <divv classsName="postg-image">
+                        
                                 <img src={withPrefix(image)} alt={imageAlt} />
                             </divv>                            
                         )}
